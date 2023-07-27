@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.header{
+    width: 100%;
+    position: relative; 
+    margin-top: 3rem;
+
+}
+.header h1{
+    text-align: center;
+
+}
+.developers{
+    margin-top: 3rem;
+}
+.devlist{
+    text-align: center;
+    
+}
+.devlist{
+    list-style: none;
+    
+}
+.devlist > li{
+    font-size: 1.5rem;
+    margin : 20px;
+    color: black;
+    
+}
+
